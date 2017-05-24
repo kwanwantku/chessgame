@@ -4,5 +4,6 @@ import boardgame.Item;
 import boardgame.Player;
 
 public class Pieces extends Item{
-	Player owner;
+	private Player owner;
+	
 }
